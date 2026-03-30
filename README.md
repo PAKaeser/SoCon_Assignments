@@ -1,5 +1,5 @@
-# HS25_SoCo-group_032
-This is the repository of the SoCo group number 32. 
+# HS25_SoCo-group
+This is the repository of the SoCo group. 
 ## Assignment 1
 The Assignment 1 has its own [README.md](./HS25_SoCo-group_032-a1/README.md) \
 [Folder Assignment 1](./HS25_SoCo-group_032-a1/)
