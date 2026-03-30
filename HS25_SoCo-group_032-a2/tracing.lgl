@@ -1,0 +1,9 @@
+["seq",
+    ["set", "x", 10],
+    ["set", "y", 3],
+    ["set", "w", ["addieren", ["get", "x"], 10]],
+    ["set", "z", 5],
+    ["set", "add_three", ["func", ["a", "b", "c"], ["seq", ["set", "d", ["addieren", ["get", "a"], ["get", "b"]]], ["addieren", ["get", "d"], ["get", "c"]]]]],
+    ["print", ["call", "add_three", ["get", "w"], ["get", "y"], ["get", "z"]]],
+    ["print", ["kleiner_gleich", ["get", "y"], ["get", "x"]]]
+]

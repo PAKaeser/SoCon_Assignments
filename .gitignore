@@ -1,0 +1,9 @@
+
+# Ignoring the .venv folders
+.venv/
+
+# Ignoring cache files
+*.pyc
+
+# Ignoring built java files
+*.class
